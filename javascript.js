@@ -26,6 +26,7 @@ console.log(oldGame)
 
 const update = document.querySelector(".container2")
 
+// On the first one you name the "class" and the second is for the name you wish to have it as.`
 update.setAttribute("class","new_container")
 
 console.log(update)
